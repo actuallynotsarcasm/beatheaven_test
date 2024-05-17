@@ -1,0 +1,151 @@
+{
+    "playabilityStatus": {
+        "status": "UNPLAYABLE",
+        "reason": "This video is not available",
+        "errorScreen": {
+            "playerErrorMessageRenderer": {
+                "reason": {
+                    "runs": [
+                        {
+                            "text": "This video is not available"
+                        }
+                    ]
+                },
+                "thumbnail": {
+                    "thumbnails": [
+                        {
+                            "url": "//s.ytimg.com/yts/img/meh7-vflGevej7.png",
+                            "width": 140,
+                            "height": 100
+                        }
+                    ]
+                },
+                "icon": {
+                    "iconType": "ERROR_OUTLINE"
+                }
+            }
+        },
+        "contextParams": "Q0FFU0FnZ0M="
+    },
+    "videoDetails": {
+        "videoId": "40JzyaOYJeY",
+        "title": "I Rebuilt My Engine To Optimise This Properly",
+        "lengthSeconds": "717",
+        "channelId": "UCMwLVepB4YOgpyo48iyg7HA",
+        "isOwnerViewing": false,
+        "isCrawlable": true,
+        "thumbnail": {
+            "thumbnails": [
+                {
+                    "url": "https://i.ytimg.com/vi_webp/40JzyaOYJeY/mqdefault.webp",
+                    "width": 320,
+                    "height": 180
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/40JzyaOYJeY/hqdefault.jpg?sqp=-oaymwEXCJADEOABSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLD9h47LWV3-xsUqQPm-sb7O-PngCw",
+                    "width": 400,
+                    "height": 224
+                },
+                {
+                    "url": "https://i.ytimg.com/vi/40JzyaOYJeY/hq720.jpg?sqp=-oaymwEXCKAGEMIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCKPScGyAopmoAjDtXzPloT7BqtFA",
+                    "width": 800,
+                    "height": 450
+                },
+                {
+                    "url": "https://i.ytimg.com/vi_webp/40JzyaOYJeY/hq720.webp",
+                    "width": 1280,
+                    "height": 720
+                }
+            ]
+        },
+        "allowRatings": true,
+        "viewCount": "90779",
+        "author": "Vercidium",
+        "isPrivate": false,
+        "isUnpluggedCorpus": false,
+        "isLiveContent": false
+    },
+    "microformat": {
+        "microformatDataRenderer": {
+            "urlCanonical": "https://music.youtube.com/watch?v=40JzyaOYJeY",
+            "title": "I Rebuilt My Engine To Optimise This Properly - YouTube Music",
+            "description": "The source code and demos are available here: https://patreon.com/vercidium I spent the past 6 years creating a game engine, and I've been shocked at the th...",
+            "thumbnail": {
+                "thumbnails": [
+                    {
+                        "url": "https://i.ytimg.com/vi/40JzyaOYJeY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                ]
+            },
+            "siteName": "YouTube Music",
+            "appName": "YouTube Music",
+            "androidPackage": "com.google.android.apps.youtube.music",
+            "iosAppStoreId": "1017492454",
+            "iosAppArguments": "https://music.youtube.com/watch?v=40JzyaOYJeY",
+            "ogType": "video.other",
+            "urlApplinksIos": "vnd.youtube.music://music.youtube.com/watch?v=40JzyaOYJeY&feature=applinks",
+            "urlApplinksAndroid": "vnd.youtube.music://music.youtube.com/watch?v=40JzyaOYJeY&feature=applinks",
+            "urlTwitterIos": "vnd.youtube.music://music.youtube.com/watch?v=40JzyaOYJeY&feature=twitter-deep-link",
+            "urlTwitterAndroid": "vnd.youtube.music://music.youtube.com/watch?v=40JzyaOYJeY&feature=twitter-deep-link",
+            "twitterCardType": "player",
+            "twitterSiteHandle": "@YouTubeMusic",
+            "schemaDotOrgType": "http://schema.org/VideoObject",
+            "noindex": false,
+            "unlisted": false,
+            "paid": false,
+            "familySafe": false,
+            "tags": [
+                "optimization",
+                "fps boost",
+                "game development",
+                "game dev",
+                "game optimisation",
+                "game engine",
+                "game engine optimisation",
+                "game engine optimization",
+                "optimisation",
+                "game development optimisation",
+                "game development optimization",
+                "game performance",
+                "game engines",
+                "game engine development",
+                "optimise",
+                "optimize"
+            ],
+            "pageOwnerDetails": {
+                "name": "Vercidium",
+                "externalChannelId": "UCMwLVepB4YOgpyo48iyg7HA",
+                "youtubeProfileUrl": "http://www.youtube.com/@Vercidium"
+            },
+            "videoDetails": {
+                "externalVideoId": "40JzyaOYJeY",
+                "durationSeconds": "718",
+                "durationIso8601": "PT11M58S"
+            },
+            "linkAlternates": [
+                {
+                    "hrefUrl": "android-app://com.google.android.youtube/http/youtube.com/watch?v=40JzyaOYJeY"
+                },
+                {
+                    "hrefUrl": "ios-app://544007664/http/youtube.com/watch?v=40JzyaOYJeY"
+                },
+                {
+                    "hrefUrl": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D40JzyaOYJeY",
+                    "title": "I Rebuilt My Engine To Optimise This Properly",
+                    "alternateType": "application/json+oembed"
+                },
+                {
+                    "hrefUrl": "https://www.youtube.com/oembed?format=xml&url=https%3A%2F%2Fmusic.youtube.com%2Fwatch%3Fv%3D40JzyaOYJeY",
+                    "title": "I Rebuilt My Engine To Optimise This Properly",
+                    "alternateType": "text/xml+oembed"
+                }
+            ],
+            "viewCount": "90779",
+            "publishDate": "2024-03-17T03:57:20-07:00",
+            "category": "Science & Technology",
+            "uploadDate": "2024-03-17T03:57:20-07:00"
+        }
+    }
+}
